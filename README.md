@@ -1,4 +1,4 @@
-<h1>College Placement Predictor</h1>
+<h1>College Student Placement Predictor</h1>
 
 <h2>Overview</h2>
 <p>A web app built with Flask and Python to predict college student placement using an SVM model based on academic and non-academic factors.</p>
